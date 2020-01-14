@@ -1,0 +1,31 @@
+*{
+	background: lightgrey;
+	color: #353535;
+}
+body{
+	margin: 0px;
+}
+
+.page{
+	height:100vh;
+	width: 100vw;
+}
+
+.nav{
+	height: 2rem;
+	width: 100%;
+	border-bottom: 2px solid black;
+}
+
+.content{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100vw;
+	margin-top: 400px;
+}
+.card{
+	border: 2px solid white;
+	border-radius: 4px;
+	padding: 15px;
+}
